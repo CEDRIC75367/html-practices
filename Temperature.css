@@ -1,6 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: hsl(0,0%,95%);
+    scroll-behaviour: smooth;
 
 }
 h3{
@@ -31,13 +32,13 @@ button{
     margin-top: 15px;
     background-color: red;
     color: whitesmoke;
-    padding: 8px 12px;
+    padding: 6px 10px;
     border-radius: 5px;
     cursor: pointer;
     border: none;
 }
 button:hover{
-    background-color: rgb(211, 11, 11);
+    background-color: rgb(206, 13, 12);
 }
 #result{
     font-weight: bold;
