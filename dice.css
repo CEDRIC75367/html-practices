@@ -2,7 +2,7 @@ body{
     text-align: center;
     margin-top: 32px;
     background: linear-gradient(135deg,#1e3c72, #2a5298);
-    color:#fff
+    color:#fff;
     scroll-behaviour: smooth;
     
 }
