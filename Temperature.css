@@ -1,6 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: hsl(0,0%,95%);
+    scroll-behavior: smooth;
 
 }
 h3{
@@ -19,25 +20,30 @@ form{
     text-align: center;
     font-size: 22px;
     width: 50%;
+
     border-radius: 6px;
     border: solid;
     margin-bottom: 17px;
+
 }
 label{
-    font-size: 15px;
+    font-size: 16px;
     font-weight: bold;
 }
 button{
-    margin-top: 15px;
+    margin-top: 16px;
     background-color: red;
     color: whitesmoke;
-    padding: 8px 10px;
+
+
+    padding: 6px 10px;
+
     border-radius: 5px;
     cursor: pointer;
     border: none;
 }
 button:hover{
-    background-color: rgb(211, 11, 11);
+    background-color: rgb(206, 13, 12);
 }
 #result{
     font-weight: bold;
