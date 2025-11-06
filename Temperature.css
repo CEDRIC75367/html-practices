@@ -21,17 +21,17 @@ form{
     font-size: 22px;
     width: 50%;
 
-    border-radius: 6px;
+    border-radius: 7px;
     border: solid;
     margin-bottom: 17px;
 
 }
 label{
-    font-size: 16px;
+    font-size: 17px;
     font-weight: bold;
 }
 button{
-    margin-top: 16px;
+    margin-top: 17px;
     background-color: red;
     color: whitesmoke;
 
@@ -43,9 +43,9 @@ button{
     border: none;
 }
 button:hover{
-    background-color: rgb(206, 13, 12);
+    background-color: rgb(211, 17, 14);
 }
 #result{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 17px;
 }
