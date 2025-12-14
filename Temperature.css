@@ -43,7 +43,7 @@ button{
     border: none;
 }
 button:hover{
-    background-color: rgb(217, 20, 17);
+    background-color: rgb(215, 20, 15);
 }
 #result{
     font-weight: bold;
