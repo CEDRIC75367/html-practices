@@ -36,9 +36,9 @@ button{
     color: whitesmoke;
 
 
-    padding: 5px 10px;
+    padding: 7px 12px;
 
-    border-radius: 5px;
+    border-radius: 7px;
     cursor: pointer;
     border: none;
 }
@@ -47,5 +47,5 @@ button:hover{
 }
 #result{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 17px;
 }
