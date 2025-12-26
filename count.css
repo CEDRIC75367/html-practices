@@ -16,7 +16,7 @@
     color: white;
     background-color: hsl(215,100%,80%);
     border-style: solid;
-    border-radius: 7px;
+    border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.25s;
 }
